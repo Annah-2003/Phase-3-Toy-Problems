@@ -1,7 +1,8 @@
+ ## Phase-3-Toy-Problems
 ## By Irene Annah on 04/11/2023
 This repository contains solutions to three toy problems implemented in Python. The challenges include converting 12-hour time to 24-hour time, determining if exactly two out of three integers are positive, and finding the highest value of consonant substrings in a given string.
 
-## Table of Contents
+
 
 ## Challenge 1: Converting 12-hour time to 24-hour time
 Converting a 12-hour time like "8:30 am" or "8:30 pm" to 24-hour time (like "0830" or "2030") sounds easy enough, right? Well, let's see if you can do it!

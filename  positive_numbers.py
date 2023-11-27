@@ -7,7 +7,7 @@ a_input = float(input("Enter the first number: "))
 b_input = float(input("Enter the second number: "))
 c_input = float(input("Enter the third number: "))
 
-# Use the function with user input
+# function with user input
 result = two_positive(a_input, b_input, c_input)
 
 # Display the result
